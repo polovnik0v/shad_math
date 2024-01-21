@@ -1,2 +1,3 @@
 # projects
-ML projects, kaggle competitions
+
+***ML projects, kaggle competitions, homeworks***
